@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<report>
+    <employers>
+        <employee>
+            <name>123</name>
+            <salary>23223</salary>
+            <coordinates>
+                <x>7</x>
+                <y>5</y>
+            </coordinates>
+            <status>RECOMMENDED_FOR_PROMOTION</status>
+            <position>LABORER</position>
+            <organization>
+                <fullName>Ildus</fullName>
+                <annualTurnover>3</annualTurnover>
+                <employeesCount>3</employeesCount>
+            </organization>
+        </employee>
+        <employee>
+            <name>dfsaklas</name>
+            <salary>32423</salary>
+            <organization>
+                <fullName>dfgdgdfg</fullName>
+                <annualTurnover>2</annualTurnover>
+                <employeesCount>2</employeesCount>
+            </organization>
+            <coordinates>
+                <x>32423</x>
+                <y>2</y>
+            </coordinates>
+            <position>LABORER</position>
+            <status>HIRED</status>
+        </employee>
+    </employers>
+</report>
